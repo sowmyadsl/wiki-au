@@ -1,6 +1,13 @@
 img {
   width: 100%;
 }
+#search {
+  float: right;
+  padding: 5px;
+}
+#search img {
+  width: 20px;
+}
 #logo {
   padding: 30px;
 }
@@ -22,5 +29,16 @@ img {
 }
 .border {
   border: 1px solid grey;
+  padding: 5px;
+  overflow: hidden;
+}
+.dark {
+  background-color: #FBFFF1;
+  border: none;
+}
+.row {
+  margin-bottom: 20px;
+}
+.bg-success{
   padding: 5px;
 }
