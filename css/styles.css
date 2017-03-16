@@ -1,0 +1,26 @@
+img {
+  width: 100%;
+}
+#logo {
+  padding: 30px;
+}
+.container {
+  width: 100%;
+}
+.img-small {
+  max-width: 200px;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 5px;
+}
+.img-small, .p-small {
+  display: inline;
+}
+.bg-primary {
+  padding: 5px;
+  margin: 0;
+}
+.border {
+  border: 1px solid grey;
+  padding: 5px;
+}
